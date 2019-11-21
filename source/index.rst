@@ -6,3 +6,4 @@ Python3 learning note
   :maxdepth: 1
 
   basics/index
+  thread/index
