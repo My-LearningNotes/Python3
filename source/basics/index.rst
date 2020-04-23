@@ -10,3 +10,4 @@ Python3基础
     dict_set
     operator
     condition_and_loop
+    comprehension
