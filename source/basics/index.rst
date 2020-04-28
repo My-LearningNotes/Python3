@@ -11,3 +11,5 @@ Python3基础
     operator
     condition_and_loop
     comprehension
+    function
+
