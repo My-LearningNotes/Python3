@@ -1,9 +1,9 @@
-Python3 learning note
-=====================
+Python3笔记
+===========
 
 
 .. toctree::
-  :maxdepth: 1
+    :maxdepth: 1
 
-  basics/index
-  thread/index
+    tutorial/index
+
