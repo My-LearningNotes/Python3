@@ -15,4 +15,5 @@ Python的运算符丰富但不混乱.
     :maxdepth: 1
 
     variable_define
+    int
 
