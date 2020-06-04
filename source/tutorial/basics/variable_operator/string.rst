@@ -167,3 +167,27 @@ Example:
     str2 =  r'D:\Program File\Python 3.8' '\\'
     print(str2)
 
+
+字符串编码
+----------
+
+Python 3.x中, 字符串采用的是Unicode字符集, 默认使用的是UTF-8编码.
+
+可以使用如下代码来查看当前环境下的编码格式:
+
+.. code-block:: python
+
+    >>> import sys
+    >>> sys.getdefaultencoding()
+
+同时, 在Python 3.x中也可以使用\ ``ord()``\ 和\ ``chr()``\ 函数实现字符和编码数字之间的转换, 例如:
+
+.. code-block:: python
+
+    >>> ord('Q')
+    81
+    >>> char(81)
+    'Q'
+
+Python默认采用UTF-8编码, 但也提供了\ ``encode()``\ 方法, 可以将Unicode编码格式的字符串转化为其它编码格式.
+
