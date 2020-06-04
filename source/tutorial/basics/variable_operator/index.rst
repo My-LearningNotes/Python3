@@ -18,4 +18,5 @@ Python的运算符丰富但不混乱.
     int
     float
     complex
+    string
 
