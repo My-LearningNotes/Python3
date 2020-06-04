@@ -16,4 +16,5 @@ Python的运算符丰富但不混乱.
 
     variable_define
     int
+    float
 
