@@ -19,4 +19,5 @@ Python的运算符丰富但不混乱.
     float
     complex
     string
+    bool
 
