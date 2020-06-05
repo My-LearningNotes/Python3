@@ -23,4 +23,5 @@ Python的运算符丰富但不混乱.
     bool
     arithmetic_operator
     assign_operator
+    bit_operator
 
