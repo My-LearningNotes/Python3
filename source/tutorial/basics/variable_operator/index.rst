@@ -24,4 +24,5 @@ Python的运算符丰富但不混乱.
     arithmetic_operator
     assign_operator
     bit_operator
+    comparison_operator
 
