@@ -21,4 +21,5 @@ Python的运算符丰富但不混乱.
     string
     bytes
     bool
+    arithmetic_operator
 
