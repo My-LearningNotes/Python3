@@ -29,5 +29,6 @@ Python的运算符丰富但不混乱.
     logical_operator
     ternary_operator
     identity_operator
+    member_check_operator
     priority_and_associativity
 
