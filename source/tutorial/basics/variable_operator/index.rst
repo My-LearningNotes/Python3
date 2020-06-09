@@ -28,4 +28,5 @@ Python的运算符丰富但不混乱.
     comparison_operator
     logical_operator
     ternary_operator
+    priority_and_associativity
 
