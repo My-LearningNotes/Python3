@@ -22,6 +22,7 @@ Python的运算符丰富但不混乱.
     bytes
     bool
     input
+    print
     type_conversion
     arithmetic_operator
     assign_operator
