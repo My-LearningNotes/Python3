@@ -27,4 +27,5 @@ Python的运算符丰富但不混乱.
     bit_operator
     comparison_operator
     logical_operator
+    ternary_operator
 
