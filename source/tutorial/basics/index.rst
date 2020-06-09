@@ -4,7 +4,7 @@ Python3基础
 .. toctree::
     :maxdepth: 1
 
-    variable_operator/index
+    variable_and_operator/index
     intro
     list_tuple
     string
