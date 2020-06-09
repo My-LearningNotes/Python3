@@ -5,6 +5,7 @@ Python3基础
     :maxdepth: 1
 
     variable_and_operator/index
+    list_tuple_dict_set/index
     intro
     list_tuple
     string
