@@ -20,4 +20,5 @@
     list_add_element
     list_delete_element
     list_modify_element
+    list_search_element
 
