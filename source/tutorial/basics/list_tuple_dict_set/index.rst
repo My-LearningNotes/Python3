@@ -17,4 +17,5 @@
 
     sequence
     list
+    list_add_element
 
