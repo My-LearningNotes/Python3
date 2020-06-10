@@ -18,4 +18,5 @@
     sequence
     list
     list_add_element
+    list_delete_element
 
