@@ -16,4 +16,5 @@
     :maxdepth: 1
 
     sequence
+    list
 
