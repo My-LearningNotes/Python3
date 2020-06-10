@@ -21,6 +21,7 @@
     list_delete_element
     list_modify_element
     list_search_element
+    list_queue_stack
     range
     tuple
 
