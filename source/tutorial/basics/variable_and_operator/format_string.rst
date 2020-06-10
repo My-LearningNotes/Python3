@@ -84,7 +84,47 @@ format_spec允许定义该替换字段的表现形式, 如左右对齐, 宽度�
 Formatted String Literals
 -------------------------
 
-这种格式化字符串的方法是由Python 3.6新加入的, 它允许你在字符串内内嵌Python运算符式.
+f-string, 亦称格式化字符串常量(formatted string literals), 是Python 3.6新引入的一种字符串格式化方法, 主要目的是使格式化字符串的操作更加简便. 
+f-string在形式上是以\ ``f``\ 或\ ``F``\ 修饰引领的字符串(``f'xxx'``\ 或\ ``F'xxx'``), 以大括号\ ``{}``\ 标明替换的字段; 
+f-string在本质上并不是字符串常量,  而是一个在运行时运算求值的表达式.
+
+.. note::
+
+    While other string literals always have a constant value,  formatted string are really expressions evaluated at run time.
+
+f-string在功能方面不逊于传统的\ ``%-formatting语句``\ 和\ ``str.format()函数``\ , 同时性能上又优于两者,  且使用起来更加简洁明了,  
+因此对于Python 3.6及以后的版本, 推荐使用f-string进行字符串格式化.
+
+*   f-string使用花括号\ ``{}``\ 表示替换字段, 其中直接填入替换内容;
+
+Example:
+
+.. code-block:: python
+
+    name = 'sylar'
+    print(f'Hello, my name is {name}')
+
+*   f-string的花括号\ ``{}``\ 可以填入表达式或调用函数, Python会求出其结果并填入返回的字符串内;
+
+Example:
+
+.. code-block:: python
+
+    print(f'A total number of {24 * 8 + 4}')
+
+    name = 'SYLAR'
+    print(f'My name is {name.lower()}')
+
+
+格式说明符
+^^^^^^^^^^
+
+自定义格式, 包括对齐, 宽度，符号，补零，精度，进制等.
+
+f-string采用\ ``{content:format}``\ 设置字符串格式, 其中\ ``content``\ 是替换并填入字符串的内容，可以是变量, 表达式或函数调用等, ``format``\ 是格式描述符.
+采用默认格式时不必指定\ ``{:format}``\ , 只写\ ``{content}``\ 即可.
+
+关于格式描述符的详细语法及含义可查阅\ `Python官方文档 <https://docs.python.org/3/library/string.html#format-specification-mini-language>`_\ .
 
 
 总结
