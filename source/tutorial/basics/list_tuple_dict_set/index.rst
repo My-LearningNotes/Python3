@@ -30,4 +30,5 @@
     dict_formatted_string
     set
     set_operation
+    frozenset
 
