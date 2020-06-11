@@ -29,4 +29,5 @@
     dict_method
     dict_formatted_string
     set
+    set_operation
 
