@@ -24,4 +24,4 @@
     list_queue_stack
     range
     tuple
-
+    dict
