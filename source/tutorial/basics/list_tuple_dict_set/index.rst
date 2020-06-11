@@ -26,3 +26,5 @@
     tuple
     dict
     dict_operation
+    dict_method
+
