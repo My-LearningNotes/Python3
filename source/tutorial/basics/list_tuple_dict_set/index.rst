@@ -25,3 +25,4 @@
     range
     tuple
     dict
+    dict_operation
