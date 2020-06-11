@@ -27,4 +27,5 @@
     dict
     dict_operation
     dict_method
+    dict_formatted_string
 
