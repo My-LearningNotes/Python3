@@ -6,6 +6,7 @@ Python3基础
 
     variable_and_operator/index
     list_tuple_dict_set/index
+    string/index
     intro
     list_tuple
     string
