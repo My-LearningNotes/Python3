@@ -16,4 +16,5 @@ Python字符串常用方法
     split
     join
     count
+    find_index
 
