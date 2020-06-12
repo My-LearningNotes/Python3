@@ -12,4 +12,5 @@ Python字符串常用方法
 
     concatenate
     truncate
+    length
 
