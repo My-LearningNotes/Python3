@@ -11,4 +11,5 @@ Python字符串常用方法
     :maxdepth: 1
 
     concatenate
+    truncate
 
