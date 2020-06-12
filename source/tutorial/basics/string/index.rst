@@ -15,3 +15,5 @@ Python字符串常用方法
     length
     split
     join
+    count
+
