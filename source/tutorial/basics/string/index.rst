@@ -14,4 +14,4 @@ Python字符串常用方法
     truncate
     length
     split
-
+    join
