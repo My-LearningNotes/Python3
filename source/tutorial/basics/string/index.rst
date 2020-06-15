@@ -17,4 +17,5 @@ Python字符串常用方法
     join
     count
     find_index
+    align
 
