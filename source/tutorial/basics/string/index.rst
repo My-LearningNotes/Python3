@@ -18,4 +18,5 @@ Python字符串常用方法
     count
     retrieve
     align
+    changeCase
 
