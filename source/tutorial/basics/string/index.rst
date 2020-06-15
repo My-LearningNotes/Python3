@@ -20,4 +20,5 @@ Python字符串常用方法
     align
     changeCase
     strip
+    codec
 
