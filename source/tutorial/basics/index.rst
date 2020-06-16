@@ -8,6 +8,7 @@ Python3基础
     list_tuple_dict_set/index
     string/index
     process_control/index
+    function/index
     intro
     list_tuple
     string
