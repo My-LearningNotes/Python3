@@ -9,6 +9,7 @@ Python3基础
     string/index
     process_control/index
     function/index
+    class/index
     intro
     list_tuple
     string
