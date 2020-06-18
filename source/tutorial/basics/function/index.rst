@@ -11,4 +11,5 @@ Python函数
     parameter
     none
     return
+    partial
 
