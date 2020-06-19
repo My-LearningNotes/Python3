@@ -12,4 +12,5 @@ Python函数
     none
     return
     partial
+    scope
 
