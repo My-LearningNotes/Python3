@@ -13,4 +13,5 @@ Python函数
     return
     partial
     scope
+    local_function
 
