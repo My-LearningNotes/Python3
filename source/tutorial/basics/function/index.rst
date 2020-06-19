@@ -14,5 +14,6 @@ Python函数
     partial
     scope
     local_function
+    closure
     advanced
 
