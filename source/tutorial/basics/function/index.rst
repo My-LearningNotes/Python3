@@ -16,4 +16,5 @@ Python函数
     local_function
     closure
     advanced
+    lambda
 
