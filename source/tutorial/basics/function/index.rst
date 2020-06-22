@@ -17,4 +17,5 @@ Python函数
     closure
     advanced
     lambda
+    eval_exec
 
