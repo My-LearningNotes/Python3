@@ -10,6 +10,7 @@ Python3基础
     process_control/index
     function/index
     class/index
+    exception_handling/index
     intro
     list_tuple
     string
