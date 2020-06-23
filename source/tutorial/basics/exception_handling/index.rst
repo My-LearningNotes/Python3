@@ -13,4 +13,5 @@ Python异常处理机制会涉及\ ``try``\ , ``except``\ , ``else``\ , ``finall
     :maxdepth: 1
 
     intro
+    except_handling
 
