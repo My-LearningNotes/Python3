@@ -10,4 +10,5 @@ Python模块和包
     package
     env
     __all__
+    __init__
 
