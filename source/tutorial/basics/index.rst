@@ -11,6 +11,7 @@ Python3基础
     function/index
     class/index
     exception_handling/index
+    module_and_package/index
     intro
     list_tuple
     string
