@@ -9,4 +9,5 @@ Python模块和包
     import
     package
     env
+    __all__
 
