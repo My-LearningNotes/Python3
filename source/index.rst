@@ -6,4 +6,5 @@ Python3笔记
     :maxdepth: 1
 
     tutorial/index
+    summary_and_recording/index
 
