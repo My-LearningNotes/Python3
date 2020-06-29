@@ -11,4 +11,5 @@ Python模块和包
     env
     __all__
     __init__
+    info
 
