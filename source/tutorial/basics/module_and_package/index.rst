@@ -12,4 +12,5 @@ Python模块和包
     __all__
     __init__
     info
+    pip
 
