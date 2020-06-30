@@ -6,5 +6,5 @@ Python3教程
     :maxdepth: 1
 
     basics/index
-    thread/index
+    concurrency/index
 
