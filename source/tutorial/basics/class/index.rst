@@ -18,6 +18,7 @@ Python语言在设计之初, 就定位为一门面向对象的编程语言, "Pyt
     property
     encapsulation
     inheritance
+    rewrite
     polymorphism
     enum_class
 
