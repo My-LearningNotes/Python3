@@ -10,6 +10,7 @@ Python3基础
     process_control/index
     function/index
     class/index
+    class_special_member/index
     exception_handling/index
     module_and_package/index
     intro
