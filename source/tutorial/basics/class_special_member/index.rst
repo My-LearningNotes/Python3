@@ -11,4 +11,4 @@ Python类中的特殊成员, 其特殊性类似C++类的\ ``private``\ 成员, �
     :maxdepth: 1
 
     __del__
-
+    __dict__
