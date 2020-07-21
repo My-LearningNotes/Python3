@@ -23,7 +23,7 @@ Python的运算符丰富但不混乱.
     bool
     input
     print
-    format_string
+    string_format
     escape_character
     type_conversion
     arithmetic_operator

@@ -1,3 +1,5 @@
+.. _format-map-reference-label:
+
 Python使用字典格式化字符串
 ==========================
 
