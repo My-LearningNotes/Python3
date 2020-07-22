@@ -18,4 +18,5 @@ Python函数
     advanced
     lambda
     eval_exec
+    decorators
 
