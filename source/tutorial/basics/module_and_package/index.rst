@@ -13,4 +13,5 @@ Python模块和包
     __init__
     info
     pip
+    virtualenv
 
