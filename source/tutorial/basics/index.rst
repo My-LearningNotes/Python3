@@ -13,6 +13,7 @@ Python3基础
     class_special_member/index
     exception_handling/index
     module_and_package/index
+    file/index
     intro
     list_tuple
     string
