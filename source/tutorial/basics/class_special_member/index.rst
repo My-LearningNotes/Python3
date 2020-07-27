@@ -18,4 +18,5 @@ Python类中的特殊成员, 其特殊性类似C++类的\ ``private``\ 成员, �
     attr_function
     protocol
     iterator
+    generator
 
