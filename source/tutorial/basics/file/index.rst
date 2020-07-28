@@ -7,7 +7,7 @@ Python也具有操作文件(I/O)的能力, 比如打开文件, 读取和追加�
 通过引入这些模块, 我们可以获得大量实现文件操作可用的函数和方法, 大大提高了编写代码的效率.
 
 .. toctree::
-    :maxdepth: 1
+    :maxdepth: 3
 
     path
     operations
