@@ -14,13 +14,4 @@ Python3基础
     exception_handling/index
     module_and_package/index
     file/index
-    intro
-    list_tuple
-    string
-    dict_set
-    operator
-    condition_and_loop
-    comprehension
-    function
-    object
 
