@@ -11,4 +11,5 @@ Python也具有操作文件(I/O)的能力, 比如打开文件, 读取和追加�
 
     path
     operations
+    iteration
 
