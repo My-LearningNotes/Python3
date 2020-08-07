@@ -8,4 +8,5 @@
     :maxdepth: 1
 
     tdd
+    coverage
     performance
