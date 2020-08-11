@@ -6,5 +6,6 @@
 
     basics
     threading
+    thread
     sync/index
 
