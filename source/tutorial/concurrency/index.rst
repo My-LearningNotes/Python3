@@ -5,6 +5,6 @@
     :maxdepth: 1
 
     basics
-    thread
+    threading
     sync/index
 
