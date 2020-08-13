@@ -20,4 +20,5 @@ Python支持多种同步类型.
     rlock
     condition
     semaphore
+    event
 
