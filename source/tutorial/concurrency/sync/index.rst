@@ -17,6 +17,7 @@ Python支持多种同步类型.
     :maxdepth: 1
 
     lock
+    rlock
     condition
     semaphore
 
