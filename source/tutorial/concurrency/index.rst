@@ -9,4 +9,5 @@
     thread
     sync/index
     timer
+    queue/queue
 
