@@ -142,5 +142,6 @@
     :maxdepth: 1
 
     lifo_queue
+    priority_queue
     example
     
